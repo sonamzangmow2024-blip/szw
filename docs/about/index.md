@@ -25,10 +25,10 @@ title: About Me
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+
 Sonam Zangmo
 
-**Title / Role** — Student
+Role** — Student
 
 > _"Add your favorite quote or personal tagline here."_
 
