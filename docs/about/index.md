@@ -40,12 +40,12 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 <hr class="section-divider">
 
-## 🎓 Education
+##  Education
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2018 – 2023 | Primary | Dechencholing Higher Secondary School |
+| 2024 – Present | Higher | The Royal Academy |
 
 ## 🛠️ Skills
 
