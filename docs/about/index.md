@@ -26,6 +26,7 @@ title: About Me
 <div class="profile-info" markdown>
 
 ## Your Name Here
+Sonam Zangmo
 
 **Title / Role** — student
 
