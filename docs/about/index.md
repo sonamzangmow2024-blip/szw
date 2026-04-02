@@ -28,7 +28,7 @@ title: About Me
 ## Your Name Here
 Sonam Zangmo
 
-**Title / Role** — student
+**Title / Role** — Student
 
 > _"Add your favorite quote or personal tagline here."_
 
