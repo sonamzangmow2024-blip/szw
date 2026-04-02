@@ -28,12 +28,11 @@ title: About Me
 
 Sonam Zangmo
 
-Role** — Student
+Role: Student
 
 > _The first step in winning is the willingness to try_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
+As a curious learner who loves trying new things, I enjoy listening to music, watching movies, and studying Mathematics. South Korea is one of my favourite countries.
 
 </div>
 
