@@ -21,8 +21,7 @@ title: About Me
      ──────────────────────────────────────────────────────── -->
 
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=https://drive.google.com/file/d/1LSSkJboM0daP3eJpQ9X_hKC7_E1PlPJC/view?usp=sharing&sz=w800" alt="Profile Photo">
-
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1LSSkJboM0daP3eJpQ9X_hKC7_E1PlPJC&sz=w400" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
