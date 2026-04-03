@@ -73,10 +73,10 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 ##  Interests
 
-- 🔬 **Reading** — I love reading thriller books.
-- 🎨 **Badminton** 
-- 🏃 **Music** — Music has always been there to make me relieve my stress
-- 📚 **Interacting** — I love interacting with people from different backgrounds.
+- **Reading** — I love reading thriller books.
+- **Badminton** 
+- **Music** — Music has always been there to make me relieve my stress
+- **Interacting** — I love interacting with people from different backgrounds.
 
 <hr class="section-divider">
 
@@ -84,7 +84,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
+| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/sonamzangmow2024-blip) |
+| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/sonamzangmow2024-blip) |
+| :material-email: Email | [your.email@example.com](mailto:sonam.zangmow2024@academy.bt) |
 | :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
