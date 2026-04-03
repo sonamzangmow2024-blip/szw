@@ -49,18 +49,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 | 2018 – 2023 | Primary | Dechencholing Higher Secondary School |
 | 2024 – Present | Higher | The Royal Academy |
 
-##  Skills
 
-<div markdown>
-
-<span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
-<span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
 
 </div>
 
@@ -84,7 +73,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | https://github.com/sonamzangmow2024-blip|
+| :fontawesome-brands-github: GitHub | sonamzangmow2024-blip |
 | :fontawesome-brands-linkedin: LinkedIn | Sonam Zangmo |
 | :material-email: Email | [sonam.zangmow2024@academy.bt](mailto:) |
 | :material-web: Website | [https://https://sonamzangmow2024-blip.github.io/szw/]() |
