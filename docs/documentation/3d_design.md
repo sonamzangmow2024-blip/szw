@@ -1,11 +1,2 @@
-# 3D Designing.
-
-this is a demmo
-
-## Design software
-
-loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
-
-## Real life projects
-
-loren ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat. Nullam nec metus nec ante placerat placerat.
+![](https://drive.google.com/thumbnail?id=1uGUjVg1gdtyiUwt8IIgsgvA-TMSgPCB0&sz=w800)
+ 
