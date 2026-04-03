@@ -59,6 +59,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 <hr class="section-divider">
 
+
 ##  Interests
 
 - **Reading** — I love reading thriller books.
@@ -67,6 +68,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 - **Interacting** — I love interacting with people from different backgrounds.
 
 <hr class="section-divider">
+
 
 ## Contact
 
