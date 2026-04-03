@@ -67,6 +67,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 - **Music** — Music has always been there to make me relieve my stress
 - **Interacting** — I love interacting with people from different backgrounds.
 
+
 <hr class="section-divider">
 
 
@@ -74,7 +75,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | sonamzangmow2024-blip |
+| :fontawesome-brands-github: GitHub |sonamzangmow2024-blip |
 | :fontawesome-brands-linkedin: LinkedIn | Sonam Zangmo |
 | :material-email: Email | [sonam.zangmow2024@academy.bt](mailto:) |
 | :material-web: Website | [https://https://sonamzangmow2024-blip.github.io/szw/]() |
