@@ -80,11 +80,11 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 <hr class="section-divider">
 
-## 📬 Contact
+## Contact
 
 | Platform | Link |
 |----------|------|
 | :fontawesome-brands-github: GitHub | [yourusername](https://github.com/sonamzangmow2024-blip) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/sonamzangmow2024-blip) |
+| :fontawesome-brands-linkedin: LinkedIn | [Your Name](Sonam Zangmo) |
 | :material-email: Email | [your.email@example.com](mailto:sonam.zangmow2024@academy.bt) |
 | :material-web: Website | [yourwebsite.com](https://https://sonamzangmow2024-blip.github.io/szw/) |
