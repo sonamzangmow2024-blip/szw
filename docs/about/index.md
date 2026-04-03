@@ -47,7 +47,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 | 2018 – 2023 | Primary | Dechencholing Higher Secondary School |
 | 2024 – Present | Higher | The Royal Academy |
 
-## 🛠️ Skills
+##  Skills
 
 <div markdown>
 
@@ -69,12 +69,12 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 <hr class="section-divider">
 
-## 🌟 Interests
+##  Interests
 
-- 🔬 **Research Area 1** — Brief description of your interest
-- 🎨 **Creative Hobby** — Brief description
-- 🏃 **Sports / Activity** — Brief description
-- 📚 **Reading / Learning** — Brief description
+- 🔬 **Reading** — I love reading thriller books.
+- 🎨 **Badminton** 
+- 🏃 **Music** — Music has always been there to make me relieve my stress
+- 📚 **Interacting** — I love interacting with people from different backgrounds.
 
 <hr class="section-divider">
 
