@@ -80,7 +80,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 
 <hr class="section-divider">
 
-## Contact.
+## Contact
 
 | Platform | Link |
 |----------|------|
