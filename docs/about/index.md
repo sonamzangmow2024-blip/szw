@@ -38,7 +38,7 @@ As a curious learner who loves trying new things, I enjoy listening to music, wa
 </div>
 
 
-</div>
+
 
 
 
