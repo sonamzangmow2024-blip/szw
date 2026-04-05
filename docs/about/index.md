@@ -36,6 +36,7 @@ Role: Student
 As a curious learner who loves trying new things, I enjoy listening to music, watching movies, and studying Mathematics. South Korea is one of my favourite countries.
 
 </div>
+</div>
 
 
 
