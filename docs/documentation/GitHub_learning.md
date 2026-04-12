@@ -6,4 +6,5 @@ GitHub is a start-up launching, super secure and a cloud-based platform. It’s 
 We can create anything with safe and secure. It allows developers to store, manage, and collaborate on code projects. It helps us keep track of changes and collaborate easily. Multiple people can work on it together. 
 
 What is Git and GitHub?
-- Git is the most widely used version control system in the world. GitHub is a platform where developers collaborate, store codes and work to gether on a project.
+
+- Git is the most widely used version control system in the world. GitHub is a platform where developers collaborate, store codes in the cloud. Git and GitHub work together to create a safe space for developers to create and store code.
