@@ -1,4 +1,4 @@
-## Dzoida
+# Dzoida
         - A Dzongkha Language Learning App
 ### Overview
 Dzoida is an innovative language learning application designed to help users learn the Dzongkha language in an interactive and engaging way. The app focuses on helping learners master the Dzongkha alphabet, improve their pronunciation, and gain confidence in speaking the language. Unlike traditional language learning methods that focus mainly on memorization, Dzoida emphasizes real communication skills, enabling users to start speaking Dzongkha from the very first day.
