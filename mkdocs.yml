@@ -157,6 +157,7 @@ nav:
       - "📝 Blank Template": documentation/template.md
       - "3D Designing": documentation/3d_design.md
       - "GitHub Learning Journey": documentation/GitHub_learning.md
+      - "Techtrek Project": documentation/techtrek_project.md
 
   - Projects:
       - Overview: projects/index.md
