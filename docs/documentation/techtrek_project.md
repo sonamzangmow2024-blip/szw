@@ -23,7 +23,31 @@ Support learners of all levels, from beginners to advanced users
 
 
 ### Installation.
-- Go to playstore (only if it is on phone) and search "Dzoida" and tab on install. After install make an account. 
+- If it is in phone;
+
+1. iPhone (iOS)
+
+Open the App Store.
+
+Search for the app.
+
+Tap Get and confirm with FaceID, TouchID, or your Passcode.
+
+2. Android
+
+Open the Google Play Store.
+
+Search for the app.
+
+Tap Install.
 
 If it is in laptop: 
-🪟 For Windows LaptopsMost Windows laptops come with the Microsoft Store pre-installed.Click the Start menu (the Windows icon) and select Microsoft Store.Use the Search bar at the top to find the app you want (e.g., WhatsApp, Spotify, or Netflix).Click on the app and select Get or Install.Once finished, the app will appear in your Start menu.Note: For apps not in the Store (like Google Chrome or Steam), you’ll need to visit the official website, download the .exe or .msi file, and run it to install.🍎 For MacBooksApple uses the App Store, similar to an iPhone.Open the App Store from your Dock or by searching in Spotlight (Cmd + Space).Browse or search for an app.Click the Get button (or the price if it's paid).Enter your Apple ID password or use Touch ID to confirm the download.Manual Install: If you download an app from the web, it usually comes as a .dmg file. Open it and drag the app icon into your Applications folder.☁️ For ChromebooksChromebooks primarily use web-based apps, but modern ones support Android apps.Google Play Store: Open the Play Store icon from your launcher, search for an app, and click Install.Chrome Web Store: For browser extensions or "web apps," visit the Chrome Web Store.PWA (Progressive Web Apps): While visiting a site like Twitter or Hulu in the Chrome browser, look for an "Install" icon (a computer with an arrow) in the address bar.
+
+🪟 For Windows Laptops -
+Most Windows laptops come with the Microsoft Store pre-installed.Click the Start menu (the Windows icon) and select Microsoft Store.Use the Search bar at the top to find the app you want (e.g., WhatsApp, Spotify, or Netflix).Click on the app and select Get or Install.Once finished, the app will appear in your Start menu.Note: For apps not in the Store (like Google Chrome or Steam), you’ll need to visit the official website, download the .exe or .msi file, and run it to install.
+
+🍎 For MacBooks -
+Apple uses the App Store, similar to an iPhone.Open the App Store from your Dock or by searching in Spotlight (Cmd + Space).Browse or search for an app.Click the Get button (or the price if it's paid).Enter your Apple ID password or use Touch ID to confirm the download.Manual Install: If you download an app from the web, it usually comes as a .dmg file. Open it and drag the app icon into your Applications folder.
+
+☁️ For Chromebooks - 
+Chromebooks primarily use web-based apps, but modern ones support Android apps.Google Play Store: Open the Play Store icon from your launcher, search for an app, and click Install.Chrome Web Store: For browser extensions or "web apps," visit the Chrome Web Store.PWA (Progressive Web Apps): While visiting a site like Twitter or Hulu in the Chrome browser, look for an "Install" icon (a computer with an arrow) in the address bar.
