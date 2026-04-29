@@ -44,7 +44,7 @@ Tap Install.
 If it is in laptop: 
 
 🪟 For Windows Laptops -
-Most Windows laptops come with the Microsoft Store pre-installed.Click the Start menu (the Windows icon) and select Microsoft Store.Use the Search bar at the top to find the app you want (e.g., WhatsApp, Spotify, or Netflix).Click on the app and select Get or Install.Once finished, the app will appear in your Start menu.Note: For apps not in the Store (like Google Chrome or Steam), you’ll need to visit the official website, download the .exe or .msi file, and run it to install.
+Most Windows laptops come with the Microsoft Store pre-installed. Click the Start menu (the Windows icon) and select Microsoft Store. Use the Search bar at the top to find the app you want (e.g., Dzoida). Click on the app and select Get or Install.Once finished, the app will appear in your Start menu.Note: For apps not in the Store (like Google Chrome or Steam), you’ll need to visit the official website, download the .exe or .msi file, and run it to install.
 
 🍎 For MacBooks -
 Apple uses the App Store, similar to an iPhone.Open the App Store from your Dock or by searching in Spotlight (Cmd + Space).Browse or search for an app.Click the Get button (or the price if it's paid).Enter your Apple ID password or use Touch ID to confirm the download.Manual Install: If you download an app from the web, it usually comes as a .dmg file. Open it and drag the app icon into your Applications folder.
